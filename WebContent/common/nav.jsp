@@ -72,7 +72,6 @@
 		<div id="open_btn" class="w3-button w3-padding-16 w3-left">
 			<span class="fa fa-navicon"> </span>
 		</div>
-		<div class="w3-center w3-padding-16">Cyber Cafe Management
-			System</div>
+		<div class="w3-center w3-padding-16">Open-Food2Air</div>
 	</div>
 </header>

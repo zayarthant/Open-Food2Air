@@ -1,7 +1,8 @@
 <head>
-<title>Cyber Cafe Management System</title>
+<title>Open-Food2Air</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="${pageContext.request.contextPath}/resources/icon.png"/>
 <link href="
 		${pageContext.request.contextPath}/resources/lib/font-awesome.min.css" rel="stylesheet"
 	type="text/css" />
