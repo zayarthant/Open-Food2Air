@@ -74,6 +74,9 @@ public class ApplicationController {
 	public String menu(Model model, @ModelAttribute("message") String message,
 			@ModelAttribute("errorMessage") String errorMessage) {
 		List<FoodItem> foodItemList = foodItemService.getAll();
+		for(FoodItem fi:foodItemList) {
+			System.out.println("---------"+fi.getName()+"--------------"+fi.getDescription()+"--------------------------");
+		}
 		model.addAttribute("foodList", foodItemList);
 		model.addAttribute(message);
 		model.addAttribute(errorMessage);
