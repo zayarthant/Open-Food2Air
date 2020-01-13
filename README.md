@@ -25,7 +25,10 @@ This is the open source version of Food2Air Restaurant management systems licine
 
 # Requirements 
 
-Tomcat Server 9.0 (Recomandard)
-Apache Server (for Media Server Usage).
-MySql Server
-Eclipse IDE
+- Tomcat Server 9.0 (Recomandard)
+
+- Apache Server (for Media Server Usage)
+
+- MySql Server
+
+- Eclipse IDE
