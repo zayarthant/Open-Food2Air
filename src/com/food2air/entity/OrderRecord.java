@@ -32,7 +32,7 @@ public class OrderRecord implements Serializable {
 	private Date order_date;
 
 	public OrderRecord() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public OrderRecord(FoodItem food_item, FoodTable food_table, Bill bill, int quantity, int status, Date order_date) {
